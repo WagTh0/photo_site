@@ -1,0 +1,118 @@
+{
+    "Blue Mountains": [
+        {
+            "src": "Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg",
+            "caption": "Anthony Lakes"
+        },
+        {
+            "src": "Pictures/Oregon/Blue_Mountains/gunsight_mountain_new_years_eve.jpeg",
+            "caption": "Gunsight Mountain"
+        },
+        {
+            "src": "Pictures/Oregon/Blue_Mountains/strawberry_falls.jpg",
+            "caption": "Strawberry Falls"
+        },
+        {
+            "src": "Pictures/Oregon/Blue_Mountains/strawberry_lake.jpg",
+            "caption": "Strawberry Lake"
+        },
+        {
+            "src": "Pictures/Oregon/Blue_Mountains/strawberry_mountain_range_and_john_day_river_valley.jpg",
+            "caption": "Strawberry Mountain Range and John Day River Valley"
+        },
+        {
+            "src": "Pictures/Oregon/Blue_Mountains/umatilla_snow_figures.jpg",
+            "caption": "Umatilla Snow Figures"
+        }
+    ],
+    "Other Oregon": [
+        {
+            "src": "Pictures/Oregon/Other/cascade_head_june.jpg",
+            "caption": "Cascade Head"
+        },
+        {
+            "src": "Pictures/Oregon/Other/neahkahnie_mountain.jpg",
+            "caption": "Neahkahnie Mountain"
+        },
+        {
+            "src": "Pictures/Oregon/Other/summer_lake_winter_rim.jpg",
+            "caption": "Summer Lake Winter Rim"
+        }
+    ],
+    "washington": [
+        {
+            "src": "Pictures/Washington/autumn_colors_on_dewey_lakes_trail.jpg",
+            "caption": "Dewey Lakes Trail"
+        },
+        {
+            "src": "Pictures/Washington/cape_horn_overlook.jpg",
+            "caption": "Cape Horn"
+        },
+        {
+            "src": "Pictures/Washington/indian_henry's_hunting_ground.jpg",
+            "caption": "Indian Henry's Hunting Ground"
+        },
+        {
+            "src": "Pictures/Washington/moraine_park_tarn.jpg",
+            "caption": "Moraine Park Tarn"
+        },
+        {
+            "src": "Pictures/Washington/mt_adams_looming_over_the_klickitat_valley.jpg",
+            "caption": "Klickitat Valley and Mt. Adams"
+        },
+        {
+            "src": "Pictures/Washington/packwood_lake_and_rainier.jpg",
+            "caption": "Packwood Lake and Mt. Rainier"
+        },
+        {
+            "src": "Pictures/Washington/red_huckleberries_at_indian_heaven.jpg",
+            "caption": "Indian Heaven"
+        },
+        {
+            "src": "Pictures/Washington/shoe_lake.jpg",
+            "caption": "Shoe Lake"
+        },
+        {
+            "src": "Pictures/Washington/shriner_peak_sunrise.jpg",
+            "caption": "Shriner Peak"
+        }
+    ],
+    "california": [
+        {
+            "src": "Pictures/California/burney_falls_and_douglas_fir.jpg",
+            "caption": "Burney Falls"
+        },
+        {
+            "src": "Pictures/California/grand_sentinel_kings_canyon.jpg",
+            "caption": "Grand Sentinel Kings Canyon"
+        },
+        {
+            "src": "Pictures/California/joshua_tree_sunstar.jpg",
+            "caption": "Joshua Tree Sunstar"
+        },
+        {
+            "src": "Pictures/California/lone_pine_peak_sunrise.jpg",
+            "caption": "Lone Pine Peak"
+        },
+        {
+            "src": "Pictures/California/mesquite_flat_sand_dunes_ripples.jpg",
+            "caption": "Mesquite Flat"
+        },
+        {
+            "src": "Pictures/California/sunset_overlooking_potato_harbor.jpg",
+            "caption": "Potato Harbor"
+        },
+        {
+            "src": "Pictures/California/muir_grove_giant_sequoia_boles.jpg",
+            "caption": "Muir Grove Giant Sequoia Boles"
+        },
+        {
+            "src": "Pictures/California/the_senate_sequoia.jpg",
+            "caption": "The Senate Sequoia"
+        },
+        {
+            "src": "Pictures/California/zabriskie_point_first_light.jpg",
+            "caption": "Zabriskie Point"
+        }
+    ]
+}
