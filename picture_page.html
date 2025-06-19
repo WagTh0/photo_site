@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sam's Website</title>
+
+        <link rel="stylesheet" href="style.css">
+        
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <header>
+            <h1>Samuel Wagner</h1>
+        </header>
+        <div class="page_content">
+            <div class="sidebar">
+                <a href="index.html">Home</a>
+                <a href="oregon.html">Oregon</a>
+                <a href="washington.html">Washington</a>
+                <a href="california.html">California</a>
+            </div>
+            <img id="fullImage" alt="Full size photo">
+
+            <script>
+                function getQueryParam(param) {
+                    const urlParams = new URLSearchParams(window.location.search);
+                    return urlParams.get(param);
+                }
+
+                const photoSrc = getQueryParam('photo');
+
+                if (photoSrc) {
+                    const image = document.getElementById('fullImage');
+                    image.src = decodeURIComponent(photoSrc);
+                } else {
+                    document.body.innerHTML = '<p>No photo selected.</p>';
+                }
+            </script>
+        </div>
+    </body>
+</html>
