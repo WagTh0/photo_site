@@ -16,12 +16,12 @@ const photos = {
     ]
 };
 */
-let currentState = 'oregon';
 
-function showPhotos(state) {
+function showPhotos(state, target_id) {
     currentState = state;
-
-    const gallery = document.getElementById('grid_content');
+    currentId = target_id;
+    
+    const gallery = document.getElementById(target_id);
     gallery.innerHTML = '';
 
     photos[state].forEach(photo => {
@@ -34,10 +34,9 @@ function showPhotos(state) {
         img.style.cursor = 'pointer';
 
         img.onclick = () => {
-            showFullImage(photo);
-            window.location.hash = `#photo_${photo.src}`;
+            window.location.href = `picture_page.html?photo=${encodeURIComponent(photo.src)}`;
         };
-
+        
         const caption = document.createElement('h5');
         caption.textContent = photo.caption;
         
@@ -68,6 +67,6 @@ window.onload = () => {
         .then(data => {
             photos = data;
 
-            showPhotos(currentState);
+            showPhotos(currentState, currentId);
         })
 };
