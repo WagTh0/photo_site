@@ -37,6 +37,11 @@ header {
 }
 
 /* Picture Section */
+.photo_grid_collection {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
 .picture_grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
