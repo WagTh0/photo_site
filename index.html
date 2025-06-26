@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Sam's Website</title>
+        <title>Sam's Website Photography</title>
 
         <meta charset="UTF-8">
         <meta name="description" content="Sam's Website">
@@ -15,18 +15,45 @@
     </head>
     <body>
         <header>
-            <h1>Samuel Wagner</h1>
+            <div class="icon">
+                <img src="Icons/Camera.png">
+                <h1>Samuel Wagner Photography</h1>
+            </div>
         </header>
         <div class="page_content">
             <div class="sidebar">
-                <a href="index.html">Home</a>
+                <a class="on_page" href="index.html">Home</a>
                 <a href="oregon.html">Oregon</a>
                 <a href="washington.html">Washington</a>
                 <a href="california.html">California</a>
             </div>
             <div class="picture_section" id="main_content">
-                <p>These are pictures of locations throughout Oregon, Washington, and California</p>
+                <p>These are pictures of locations throughout Oregon, Washington, and California. hfskjfhshfjwhfjffh hsdjfhksf fhesjhf fhskdjf fehfjhafksd fhjkfhs fef sfhsf sdhfsdf fjsjfsdfhsd sdhfjks fhf sdkfjshf sfhwe fhsfhs gsha gh seh fhe f ejkfhskfhslefhhfkjdshfks</p>
+                <div class="w3-content">
+                    <img class="slides" src="Pictures/Washington/shriner_peak_sunrise.JPG">
+                    <img class="slides" src="Pictures/Oregon/Blue_Mountains/strawberry_lake.JPG">
+                    <img class="slides" src="Pictures/Oregon/Cascades/crown_point_sunset.JPG">
+                    <img class="slides" src="Pictures/California/lone_pine_peak_sunrise.JPG">
+                </div>
             </div>
+            <script>
+                let slideIndex = 0;
+                carousel();
+                
+                function carousel() {
+                    let i;
+                    let x = document.getElementsByClassName("slides");
+                    for (i = 0; i < x.length; i++) {
+                        x[i].style.display = "none";
+                    }
+                    slideIndex++;
+                    if (slideIndex > x.length) {
+                        slideIndex = 1
+                    }
+                    x[slideIndex-1].style.display = "block";
+                    setTimeout(carousel, 4300); // Change image every 4.3 seconds
+                }
+            </script>
         </div>
     </body>
 </html>
