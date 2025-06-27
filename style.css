@@ -1,17 +1,21 @@
 * {
-    text-align: center;
     font-family: Garamond, serif;
 }
 
 body {background-color: #e2e2e2;}
 
 header {
+    text-align: center;
     max-width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 560.5px;
     padding-right: 149.5px;
-    background-image: linear-gradient(rgb(79, 79, 255), rgb(35, 35, 110));
+    background-image: linear-gradient(rgba(79, 79, 255, 0.5), rgba(35, 35, 110, 0.5)), url("Pictures/Oregon/Wallowa/wallowa_lake_from_chief_joseph.JPG");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
 }
 
 .icon {
@@ -31,8 +35,14 @@ header {
     margin-right: 10%;
 }
 
+.text_section {
+    text-align: justify;
+    max-width: 500px;
+}
+
 /* Sidebar */
 .sidebar {
+    text-align: center;
     position: sticky;
     top: 0;
     float: left;
@@ -61,6 +71,7 @@ header {
 
 /* Picture Section */
 .photo_grid_collection {
+    text-align: center;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     padding-left: 35px;
@@ -70,6 +81,7 @@ header {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     padding-left: 30px;
+    padding-top: 20px
 }
 
 .picture_section {
@@ -121,6 +133,14 @@ header {
     height: auto;
 }
 
+.image_content {
+    text-align: center;
+}
+
+#fullImage {
+    padding: 40px;
+}
+
 /* Slide Show on Home Page */
 .w3-content {
     width: 1300px;
@@ -142,7 +162,7 @@ header {
 .slides {
     width: 100%;
     max-height: 180px;
-    animation: fadeInAnimation ease 5s;
+    animation: fadeInAnimation ease 7s;
 }
 
 @keyframes fadeInAnimation {
