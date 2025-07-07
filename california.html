@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>California Page</title>
+        <title>California Photos</title>
 
         <link rel="stylesheet" href="style.css">
         
         <script src="script.js"></script>
+
+        <link rel='icon' type='image/png' href='Icons/Camera.png'/>
     </head>
     <body>
         <header>
@@ -15,14 +17,16 @@
             </div>
         </header>
         <div class="page_content">
-            <div class="sidebar">
-                <a href="index.html">Home</a>
-                <a href="oregon.html">Oregon</a>
-                <a href="washington.html">Washington</a>
-                <a class="on_page" href="california.html">California</a>
+            <div class="sidebar_section">
+                <div class="sidebar">
+                    <a class="on_page" href="index.html">Home</a>
+                    <a href="oregon.html">Oregon</a>
+                    <a href="washington.html">Washington</a>
+                    <a href="california.html">California</a>
+                </div>
             </div>
             <div class="photo_grid_collection">
-                <h3></h3>
+                <h2></h2>
                 <div class="picture_grid" id="grid_content">
                     <script>
                         showPhotos('california', 'grid_content');
