@@ -1,22 +1,22 @@
 {
     "cascades": [
         {
-            "src": "Pictures/Oregon/Cascades/benson_lake.jpg",
+            "src": "Pictures/Oregon/Cascades/benson_lake.JPG",
             "group": "Cascades",
             "caption": "Benson Lake"
         },
         {
-            "src": "Pictures/Oregon/Cascades/clear_lake_oregon.jpg",
+            "src": "Pictures/Oregon/Cascades/clear_lake_oregon.JPG",
             "group": "Cascades",
             "caption": "Clear Lake"
         },
         {
-            "src": "Pictures/Oregon/Cascades/crown_point_sunset.jpg",
+            "src": "Pictures/Oregon/Cascades/crown_point_sunset.JPG",
             "group": "Cascades",
             "caption": "Crown Point"
         },
         {
-            "src": "Pictures/Oregon/Cascades/lost_lake_sunset.jpg",
+            "src": "Pictures/Oregon/Cascades/lost_lake_sunset.JPG",
             "group": "Cascades",
             "caption": "Lost Lake"
         },
@@ -26,12 +26,12 @@
             "caption": "Metolius River"
         },
         {
-            "src": "Pictures/Oregon/Cascades/mitchell_point_sunrise.jpg",
+            "src": "Pictures/Oregon/Cascades/mitchell_point_sunrise.JPG",
             "group": "Cascades",
             "caption": "Mitchell Point"
         },
         {
-            "src": "Pictures/Oregon/Cascades/obsidian_falls.jpg",
+            "src": "Pictures/Oregon/Cascades/obsidian_falls.JPG",
             "group": "Cascades",
             "caption": "Obsidian Falls"
         },
@@ -41,17 +41,17 @@
             "caption": "Parkdale Pear Orchards"
         },
         {
-            "src": "Pictures/Oregon/Cascades/salt_creek_falls.jpg",
+            "src": "Pictures/Oregon/Cascades/salt_creek_falls.JPG",
             "group": "Cascades",
             "caption": "Salt Creek Falls"
         },
         {
-            "src": "Pictures/Oregon/Cascades/shale_lake_sunrise.jpg",
+            "src": "Pictures/Oregon/Cascades/shale_lake_sunrise.JPG",
             "group": "Cascades",
             "caption": "Shale Lake"
         },
         {
-            "src": "Pictures/Oregon/Cascades/snowy_stream.jpg",
+            "src": "Pictures/Oregon/Cascades/snowy_stream.JPG",
             "group": "Cascades",
             "caption": "Snowy Stream"
         },
@@ -61,32 +61,32 @@
             "caption": "Timberline Lodge"
         },
         {
-            "src": "Pictures/Oregon/Cascades/timothy_lake_sunset.jpg",
+            "src": "Pictures/Oregon/Cascades/timothy_lake_sunset.JPG",
             "group": "Cascades",
             "caption": "Timothy Lake"
         },
         {
-            "src": "Pictures/Oregon/Cascades/tom_dick_and_harry_mountain_view.jpg",
+            "src": "Pictures/Oregon/Cascades/tom_dick_and_harry_mountain_view.JPG",
             "group": "Cascades",
             "caption": "Tom Dick and Harry Mountain"
         },
         {
-            "src": "Pictures/Oregon/Cascades/white_river_falls.jpg",
+            "src": "Pictures/Oregon/Cascades/white_river_falls.JPG",
             "group": "Cascades",
             "caption": "White River Falls"
         },
         {
-            "src": "Pictures/Oregon/Cascades/winter_light_lost_lake.jpg",
+            "src": "Pictures/Oregon/Cascades/winter_light_lost_lake.JPG",
             "group": "Cascades",
             "caption": "Lost Lake (Winter Light)"
         },
         {
-            "src": "Pictures/Oregon/Cascades/wizard_island_last_light.jpg",
+            "src": "Pictures/Oregon/Cascades/wizard_island_last_light.JPG",
             "group": "Cascades",
             "caption": "Wizard Island"
         },
         {
-            "src": "Pictures/Oregon/Cascades/zigzag_beargrass_meadow.jpg",
+            "src": "Pictures/Oregon/Cascades/zigzag_beargrass_meadow.JPG",
             "group": "Cascades",
             "caption": "Zigzag Beargrass Meadow"
         }
