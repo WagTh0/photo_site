@@ -155,12 +155,12 @@
     ],
     "blue_mountains": [
         {
-            "src": "Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg",
+            "src": "Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.JPEG",
             "group": "Blue Mountains",
             "caption": "Anthony Lakes"
         },
         {
-            "src": "Pictures/Oregon/Blue_Mountains/gunsight_mountain_new_years_eve.jpeg",
+            "src": "Pictures/Oregon/Blue_Mountains/gunsight_mountain_new_years_eve.JPEG",
             "group": "Blue Mountains",
             "caption": "Gunsight Mountain"
         },
@@ -192,7 +192,7 @@
             "caption": "Cascade Head"
         },
         {
-            "src": "Pictures/Oregon/Other/neahkahnie_mountain.jpg",
+            "src": "Pictures/Oregon/Other/neahkahnie_mountain.JPG",
             "group": "Other",
             "caption": "Neahkahnie Mountain"
         },
