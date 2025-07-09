@@ -80,7 +80,7 @@ header {
 
 /* Picture Section */
 .photo_grid_collection {
-    padding-right: 50px;
+    /*padding-left: 20px;*/
     text-align: center;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
