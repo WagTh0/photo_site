@@ -27,6 +27,10 @@
             </div>
             <div class="image_content">
                 <img id="fullImage" alt="Full size photo">
+                <h2></h2>
+                <p>
+                    I am an amateur, yet serious, landscape photographer based in Oregon (for now). I am always looking for hidden and beautiful locations to 
+                    photograph and new compositions to try. I like taking pictures that have many layers and make full use of available space.
             </div>
 
             <script>
@@ -36,10 +40,14 @@
                 }
 
                 const photoSrc = getQueryParam('photo');
+                const photoTitle = getQueryParam('caption');
 
                 if (photoSrc) {
                     const image = document.getElementById('fullImage');
                     image.src = decodeURIComponent(photoSrc);
+
+                    const titleEl = document.querySelector('.image_content h2');
+                    if (photoTitle) titleEl.textContent = decodeURIComponent(photoTitle);
                 } else {
                     document.body.innerHTML = '<p>No photo selected.</p>';
                 }
