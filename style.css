@@ -30,6 +30,7 @@ header {
 }
 
 .page_content {
+    display: flex;
     flex-direction: row;
     margin-left: 150px;
     margin-right: 150px;
@@ -80,7 +81,7 @@ header {
 
 /* Picture Section */
 .photo_grid_collection {
-    /*padding-left: 20px;*/
+    padding-left: 50px;
     text-align: center;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -89,7 +90,7 @@ header {
 .picture_grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    padding-left: 30px;
+    /*padding-left: 30px;*/
     padding-top: 20px
 }
 
@@ -138,14 +139,25 @@ header {
 
 .image_content {
     text-align: center;
-    width: 1200px;
+    min-width: 1100px;
+    max-width: 1100px;
+    padding-bottom: 50px;
 }
 
-#fullImage {padding: 9px;}
+.image_content > p{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#fullImage {
+    padding: 9px;
+    max-width: 500px;
+    max-height: 500px;
+}
 
 /* Slide Show on Home Page */
 .w3-content {
-    width: 1300px;
+    width: 550px;
     height: 360px;
     padding-top: 30px;
     padding-right: 50px;
