@@ -2,17 +2,17 @@ let photos = {};
 /*
 const photos = {
     oregon: [
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', caption: 'Nature 1' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', caption: 'Nature 2' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', caption: 'Nature 2' }
+        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: 'Blue', caption: 'Nature 1' },
+        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: 'Blue', caption: 'Nature 2' },
+        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: 'Green', caption: 'Nature 2' }
     ],
     washington: [
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', caption: '1' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', caption: '2' }
+        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: '1' },
+        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: '2' }
     ],
     california: [
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', caption: 'City 1' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', caption: 'City 2' }
+        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: 'City 1' },
+        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: 'City 2' }
     ]
 };
 */
@@ -34,7 +34,8 @@ function showPhotos(state, target_id) {
         img.style.cursor = 'pointer';
 
         img.onclick = () => {
-            window.location.href = `picture_page.html?photo=${encodeURIComponent(photo.src)}`;
+            window.location.href =
+            `picture_page.html?photo=${encodeURIComponent(photo.src)}&caption=${encodeURIComponent(photo.caption)}`;
         };
         
         const caption = document.createElement('h5');
@@ -47,6 +48,7 @@ function showPhotos(state, target_id) {
     });
 }
 
+/*
 function showFullImage(photo) {
     const content = document.getElementById('main_content');
     content.innerHTML = `
@@ -58,6 +60,7 @@ function showFullImage(photo) {
     const gallery = document.getElementById('grid_content');
     gallery.innerHTML = '';
 }
+*/
 
 window.onload = () => {
     fetch('pictures.json')
