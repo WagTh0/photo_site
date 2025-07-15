@@ -2,94 +2,98 @@
     "washington": [
         {
             "src": "Pictures/Washington/autumn_colors_on_dewey_lakes_trail.JPG",
-            "group": "",
+            "description": 
+            "This palette of early autumn colors was captured near the border of Mt. Rainier National Park (Pierce County) and the William O. Douglas Wilderness (Yakima County). The craggy peaks in the background are part of the Tatoosh Range. October, 2022",
             "caption": "Dewey Lakes Trail"
         },
         {
             "src": "Pictures/Washington/cape_horn_overlook.JPG",
-            "group": "",
+            "description": "",
             "caption": "Cape Horn"
         },
         {
             "src": "Pictures/Washington/indian_henry's_hunting_ground.JPG",
-            "group": "",
+            "description": "",
             "caption": "Indian Henry's Hunting Ground"
         },
         {
             "src": "Pictures/Washington/moraine_park_tarn.JPG",
-            "group": "",
+            "description": "",
             "caption": "Moraine Park Tarn"
         },
         {
             "src": "Pictures/Washington/mt_adams_looming_over_the_klickitat_valley.JPG",
-            "group": "",
+            "description": "",
             "caption": "Klickitat Valley and Mt. Adams"
         },
         {
             "src": "Pictures/Washington/packwood_lake_and_rainier.JPG",
-            "group": "",
+            "description": 
+            "This vantage point in the Goat Rocks Wilderness perfectly lines up Mt. Rainier and Packwood Lake. The lake lies at the end of a glacial valley and it is reasonable to assume that it was formed along with the valley. However, the lake was not formed until much later, around 800 A.D., when a landslide dammed up the creek flowing through the valley. August, 2023",
             "caption": "Packwood Lake and Mt. Rainier"
         },
         {
             "src": "Pictures/Washington/red_huckleberries_at_indian_heaven.JPG",
-            "group": "",
+            "description": "",
             "caption": "Indian Heaven"
         },
         {
             "src": "Pictures/Washington/shoe_lake.JPG",
-            "group": "",
+            "description": 
+            "Hidden in a little basin on the south side of Hogsback Mountain near White Pass is a little turquoise lake called Shoe Lake. It affords a sweeping view of the main spine of the Goat Rocks (as long as you can handle climbing up an unstable rock slide.) August, 2022",
             "caption": "Shoe Lake"
         },
         {
             "src": "Pictures/Washington/shriner_peak_sunrise.JPG",
-            "group": "",
+            "description": 
+            "Smoke blew in from the nearby Schneider Springs Fire creating a hazy pink glow on Mt. Rainier. This photograph was taken atop Shriner Peak after a night of stargazing and looking for Perseid meteors.",
             "caption": "Shriner Peak"
         }
     ],
     "california": [
         {
-            "src": "Pictures/California/burney_falls_and_douglas_fir.JPG",
-            "group": "",
-            "caption": "Burney Falls"
+            "src": "Pictures/California/the_senate_sequoia.JPG",
+            "description": "",
+            "caption": "The Senate Sequoia"
         },
         {
             "src": "Pictures/California/grand_sentinel_kings_canyon.JPG",
-            "group": "",
+            "description": "",
             "caption": "Grand Sentinel Kings Canyon"
         },
         {
+            "src": "Pictures/California/burney_falls_and_douglas_fir.JPG",
+            "description": "",
+            "caption": "Burney Falls"
+        },
+        {
             "src": "Pictures/California/joshua_tree_sunstar.JPG",
-            "group": "",
+            "description": "",
             "caption": "Joshua Tree Sunstar"
         },
         {
             "src": "Pictures/California/lone_pine_peak_sunrise.JPG",
-            "group": "",
+            "description": "",
             "caption": "Lone Pine Peak"
         },
         {
             "src": "Pictures/California/mesquite_flat_sand_dunes_ripples.JPG",
-            "group": "",
+            "description": "",
             "caption": "Mesquite Flat"
         },
         {
             "src": "Pictures/California/sunset_overlooking_potato_harbor.jpg",
-            "group": "",
+            "description": "",
             "caption": "Potato Harbor"
         },
         {
             "src": "Pictures/California/muir_grove_giant_sequoia_boles.jpg",
-            "group": "",
+            "description": "",
             "caption": "Muir Grove Giant Sequoia Boles"
         },
         {
-            "src": "Pictures/California/the_senate_sequoia.JPG",
-            "group": "",
-            "caption": "The Senate Sequoia"
-        },
-        {
             "src": "Pictures/California/zabriskie_point_first_light.JPG",
-            "group": "",
+            "description": "",
             "caption": "Zabriskie Point"
         }
     ]
