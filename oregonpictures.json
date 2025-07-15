@@ -2,203 +2,220 @@
     "cascades": [
         {
             "src": "Pictures/Oregon/Cascades/benson_lake.JPG",
-            "group": "Cascades",
+            "description": 
+            "I decided to visit the Three Sisters area after a decent snowfall in early October, 2019. I photographed Benson Lake and the three volcanoes in the background, which turned out to be a surprisingly good photo. This was the photograph that seriously launched me into photography.",
             "caption": "Benson Lake"
         },
         {
             "src": "Pictures/Oregon/Cascades/clear_lake_oregon.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Clear Lake"
         },
         {
             "src": "Pictures/Oregon/Cascades/crown_point_sunset.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Crown Point"
         },
         {
             "src": "Pictures/Oregon/Cascades/lost_lake_sunset.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Lost Lake"
         },
         {
             "src": "Pictures/Oregon/Cascades/metolius_river_winter.jpg",
-            "group": "Cascades",
+            "description": "",
             "caption": "Metolius River"
         },
         {
             "src": "Pictures/Oregon/Cascades/mitchell_point_sunrise.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Mitchell Point"
         },
         {
             "src": "Pictures/Oregon/Cascades/obsidian_falls.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Obsidian Falls"
         },
         {
             "src": "Pictures/Oregon/Cascades/parkdale_pear_orchards.jpg",
-            "group": "Cascades",
+            "description": 
+            "Blooming pear trees make a great foreground for pointy and snow-capped Mt. Hood.",
             "caption": "Parkdale Pear Orchards"
         },
         {
             "src": "Pictures/Oregon/Cascades/salt_creek_falls.jpg",
-            "group": "Cascades",
+            "description": "",
             "caption": "Salt Creek Falls"
         },
         {
             "src": "Pictures/Oregon/Cascades/shale_lake_sunrise.JPG",
-            "group": "Cascades",
+            "description": 
+            "This photo was taken on my first backpacking trip. The sunrise lit up the clouds floating above Mt. Jefferson the day after an overcast day. August, 2021.",
             "caption": "Shale Lake"
         },
         {
             "src": "Pictures/Oregon/Cascades/snowy_stream.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Snowy Stream"
         },
         {
             "src": "Pictures/Oregon/Cascades/timberline_lodge_april.jpg",
-            "group": "Cascades",
+            "description": 
+            "A classic image photographed in late April, 2023. Thankfully, the snow decided to stick around fairly late that year.",
             "caption": "Timberline Lodge"
         },
         {
             "src": "Pictures/Oregon/Cascades/timothy_lake_sunset.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Timothy Lake"
         },
         {
             "src": "Pictures/Oregon/Cascades/tom_dick_and_harry_mountain_view.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Tom Dick and Harry Mountain"
         },
         {
             "src": "Pictures/Oregon/Cascades/white_river_falls.JPG",
-            "group": "Cascades",
+            "description": 
+            "These falls are a little bit east of Mt. Hood. I visited on a 30 degree morning in March, 2021. It certainly felt a lot colder due to the mist coming up from the canyon.",
             "caption": "White River Falls"
         },
         {
             "src": "Pictures/Oregon/Cascades/winter_light_lost_lake.JPG",
-            "group": "Cascades",
+            "description": 
+            "This picture wasn't quite taken in winter (November), but the atmosphere at the lake felt like it. A brief snowstorm covered the trails and plants around the lake with a few inches of snow. Hardly anyone was around at the end of the visitation season, which only added to the allure.",
             "caption": "Lost Lake (Winter Light)"
         },
         {
             "src": "Pictures/Oregon/Cascades/wizard_island_last_light.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Wizard Island"
         },
         {
             "src": "Pictures/Oregon/Cascades/zigzag_beargrass_meadow.JPG",
-            "group": "Cascades",
+            "description": "",
             "caption": "Zigzag Beargrass Meadow"
         }
     ],
     "wallowa": [
         {
             "src": "Pictures/Oregon/Wallowa/brennan_barn.JPG",
-            "group": "Wallowa",
+            "description": "",
             "caption": "Brennan Barn"
         },
         {
             "src": "Pictures/Oregon/Wallowa/cornucopia_balsamroot.JPG",
-            "group": "Wallowa",
+            "description": 
+            "Cornucopia Peak, the southernmost peak in the Wallowa Range, stands above one of the largest deposits of gold in Oregon. It is said that one third of all gold bullions that were stamped in San Francisco in the late 1800s came from the Cornucopia Mines. Gold mining continued until World War II. Some mining relics, such as the ghost town of Cornucopia, still remain.",
             "caption": "Cornucopia Balsamroot"
         },
         {
             "src": "Pictures/Oregon/Wallowa/eagle_cap_sunrise.JPG",
-            "group": "Wallowa",
+            "description": 
+            "Eagle Cap is an impressive granitic glacial horn at the center of the Wallowa Mountains. Climbing up its south side is a popular excursion for a backpacking trip. In fact, I climbed it the day I took this picture.",
             "caption": "Eagle Cap"
         },
         {
             "src": "Pictures/Oregon/Wallowa/glacier_lake.JPG",
-            "group": "Wallowa",
+            "description": "",
             "caption": "Glacier Lake"
         },
         {
             "src": "Pictures/Oregon/Wallowa/road_to_the_wallowas.JPG",
-            "group": "Wallowa",
+            "description": 
+            "The Wallowa Valley is Oregon's version of Jackson Hole, with tall snow-capped peaks rising straight out of the ground - no foothills in between. Here is a common scene in this land: a dirt road leading across the rangeland, toward the mountains.",
             "caption": "Road to the Wallowas"
         },
         {
             "src": "Pictures/Oregon/Wallowa/ruby_rainbow.JPG",
-            "group": "Wallowa",
+            "description": 
+            "I was fortunate enough to catch an early morning rain shower coming over the Wallowas on Memorial Day, 2025. I calculated that a rainbow would form in the vicinity of Ruby Peak from my vantage point and sure enough, one formed right over the summit, albeit faint.",
             "caption": "Ruby Rainbow"
         },
         {
             "src": "Pictures/Oregon/Wallowa/south_fork_imnaha_lupine.JPG",
-            "group": "Wallowa",
+            "description": 
+            "This meadow is one of the most remote places in the Eagle Cap Wilderness. You are 15 miles from the nearest trailhead as you stand among the lupine here. Jackson Peak looms large in the center of this photo, while the lower slopes of Cusick Peak are on the lefthand side. Somewhere on Cusick is Oregon's oldest tree, a limber pine over 2000 years old. July, 2023.",
             "caption": "South Fork Imnaha Lupine"
         },
         {
             "src": "Pictures/Oregon/Wallowa/the_high_eagle_cap_wilderness.JPG",
-            "group": "Wallowa",
+            "description": "",
             "caption": "High Eagle Cap Wilderness"
         },
         {
             "src": "Pictures/Oregon/Wallowa/wallowa_lake_framed_by_ponderosa_pine.jpg",
-            "group": "Wallowa",
+            "description": "",
             "caption": "Wallowa Lake and Ponderosa Pine"
         },
         {
             "src": "Pictures/Oregon/Wallowa/wallowa_lake_from_chief_joseph.JPG",
-            "group": "Wallowa",
+            "description": 
+            "Summiting Chief Joseph Mountain, a giant massif that rises 5,000 feet from the Wallowa Valley floor, is no easy feat. It requires a climb up an avalanche chute with a 40 degree incline and hiking from sunup to sundown. At the top is a birds-eye view of the valley and Wallowa Lake. From up here, one can easily realize the lake's glacial origin. The glacier that formed it has retreated and advanced over eons, with each advance being a little longer than the last. The last glacial retreat happened 17,000 years ago leaving the lake in its current form. It is only a matter of time before the glacier will be back. Photographed September, 2024.",
             "caption": "Wallowa Lake from Chief Joseph"
         },
         {
             "src": "Pictures/Oregon/Wallowa/wallowa_range_and_verdant_fields.JPG",
-            "group": "Wallowa",
+            "description": "",
             "caption": "Wallowa Range and Verdent Fields"
         },
         {
             "src": "Pictures/Oregon/Wallowa/zumwalt_prairie_moonset.jpg",
-            "group": "Wallowa",
+            "description": 
+            "The moon was due to set over the Wallowas at 5am on June 15th, 2022. I made sure to be there to capture this scene. Thankfully good weather was due too, after several days of clouds, rain and even snow showers hampered the views out on the Zumwalt Prairie.",
             "caption": "Zumwalt Prairie"
         }
     ],
     "blue_mountains": [
         {
             "src": "Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.JPEG",
-            "group": "Blue Mountains",
+            "description": 
+            "Snowshoeing and crosscountry skiing are fun activities to do at Anthony Lakes Ski Resort in the Elkhorn Mountains. ",
             "caption": "Anthony Lakes"
         },
         {
-            "src": "Pictures/Oregon/Blue_Mountains/gunsight_mountain_new_years_eve.JPEG",
-            "group": "Blue Mountains",
-            "caption": "Gunsight Mountain"
-        },
-        {
-            "src": "Pictures/Oregon/Blue_Mountains/strawberry_falls.JPG",
-            "group": "Blue Mountains",
-            "caption": "Strawberry Falls"
-        },
-        {
             "src": "Pictures/Oregon/Blue_Mountains/strawberry_lake.JPG",
-            "group": "Blue Mountains",
+            "description": "",
             "caption": "Strawberry Lake"
         },
         {
+            "src": "Pictures/Oregon/Blue_Mountains/strawberry_falls.JPG",
+            "description": "",
+            "caption": "Strawberry Falls"
+        },
+        {
             "src": "Pictures/Oregon/Blue_Mountains/strawberry_mountain_range_and_john_day_river_valley.JPG",
-            "group": "Blue Mountains",
+            "description": 
+            "This is one of the best and unexpected views on all of US-26. Traveling west, the Strawberry Mountains aren't visible until you round a bend and start descending down into the John Day River Valley. May, 2023",
             "caption": "Strawberry Mountain Range and John Day River Valley"
         },
         {
+            "src": "Pictures/Oregon/Blue_Mountains/gunsight_mountain_new_years_eve.JPEG",
+            "description": 
+            "Gunsight Mountain is named so for the notch at its top and the long couloir below it. It is a photogenic butte, especially in winter when it is covered in fresh snow.",
+            "caption": "Gunsight Mountain"
+        },
+        {
             "src": "Pictures/Oregon/Blue_Mountains/umatilla_snow_figures.jpg",
-            "group": "Blue Mountains",
+            "description": 
+            "Out in the northern Blue Mountains, snow falls in heaps, contorting the once familiar looking trees into penguin-looking caricatures. December, 2024",
             "caption": "Umatilla Snow Figures"
         }
     ],
     "other_oregon": [
         {
             "src": "Pictures/Oregon/Other/cascade_head_june.jpg",
-            "group": "Other",
+            "description": "",
             "caption": "Cascade Head"
         },
         {
             "src": "Pictures/Oregon/Other/neahkahnie_mountain.JPG",
-            "group": "Other",
+            "description": "",
             "caption": "Neahkahnie Mountain"
         },
         {
             "src": "Pictures/Oregon/Other/summer_lake_winter_rim.jpg",
-            "group": "Other",
+            "description": "",
             "caption": "Summer Lake Winter Rim"
         }
     ]
