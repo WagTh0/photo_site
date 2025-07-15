@@ -35,7 +35,7 @@ function showPhotos(state, target_id) {
 
         img.onclick = () => {
             window.location.href =
-            `picture_page.html?photo=${encodeURIComponent(photo.src)}&caption=${encodeURIComponent(photo.caption)}`;
+            `picture_page.html?photo=${encodeURIComponent(photo.src)}&caption=${encodeURIComponent(photo.caption)}&description=${encodeURIComponent(photo.description)}`;
         };
         
         const caption = document.createElement('h5');
