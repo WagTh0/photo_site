@@ -34,39 +34,58 @@ header {
     flex-direction: row;
     margin-left: 150px;
     margin-right: 150px;
-    padding-top: 10px;
 }
 
 .text_section {
-    text-align: justify;
+    text-align: left;
     max-width: 500px;
     min-width: 500px;
     font-size: 20px;
     padding-left: 10px;
-    padding-right: 10px;
+    /*padding-right: 10px;*/
+}
+
+.text_block {
+    background-color: rgb(203, 203, 255);
+    border-radius: 5px;
+}
+
+.text_block > p {
+    padding: 10px;
 }
 
 /* Sidebar */
+/*
 .sidebar_section {
+
     padding-top: 10px;
     position: sticky;
     top: 0;
     float: left;
 }
+*/
 
 .sidebar {
     text-align: center;
     display: flex;
-    background-image: linear-gradient(to right, white, rgb(211, 211, 211));
+    position: sticky;
+    top: 0;
+    float: left;
     flex-direction: column;
+    padding-top: 10px;
 }
 
 .sidebar > a {
-    padding: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
     text-decoration: none;
     display: block;
+    background-image: linear-gradient(to right, white, rgb(211, 211, 211));
     color: black;
-    border: 1px solid black;
+    border: 3px solid black;
+    border-radius: 5px;
 }
 
 .sidebar > a:hover {
@@ -81,24 +100,40 @@ header {
 
 /* Picture Section */
 .photo_grid_collection {
+    margin-top: 10px;
+    margin-bottom: 10px;
     padding-left: 50px;
+    padding-right: 50px;
     text-align: center;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
+    width: max-content;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, rgb(176, 176, 228), rgb(129, 129, 204));
+}
+
+.photo_grid_collection > h2 {
+    background-color: rgb(203, 203, 255);
 }
 
 .picture_grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    /*padding-left: 30px;*/
     padding-top: 20px
 }
 
 .picture_section {
+    margin-top: 10px;
+    margin-bottom: 10px;
     gap: 20px;
     display: flex;
     flex-direction: row;
-    padding-left: 30px;
+    padding-left: 10px;
+    width: max-content;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, rgb(176, 176, 228), rgb(129, 129, 204));
 }
 
 .picture_section > p {
@@ -144,9 +179,9 @@ header {
     padding-bottom: 50px;
 }
 
-.image_content > p{
-    padding-left: 50px;
-    padding-right: 50px;
+.image_content > p {
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 #fullImage {
@@ -157,10 +192,9 @@ header {
 
 /* Slide Show on Home Page */
 .w3-content {
-    width: 550px;
-    height: 360px;
-    padding-top: 30px;
-    padding-right: 50px;
+    height: 300px;
+    padding-right: 20px;
+    padding-top: 165px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -169,14 +203,14 @@ header {
 }
 
 .w3-content > img {
-    max-width: 1300px;
-    max-height: 360px;
+    max-width: 450px;
+    max-height: 300px;
     object-fit: contain;
 }
 
 .slides {
-    width: 500px;
-    max-height: 380px;
+    width: 450px;
+    max-height: 300px;
     animation: fadeInAnimation ease 7s;
 }
 
