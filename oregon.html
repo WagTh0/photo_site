@@ -3,6 +3,12 @@
     <head>
         <title>Oregon Photos</title>
 
+        <meta charset="UTF-8">
+        <meta name="description" content="Sam's Website">
+        <meta name="keywords" content="Scenic Pictures">
+        <meta name="author" content="Thomas Wagner">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
         <link rel="stylesheet" href="style.css">
         
         <script src="oregonscript.js"></script>
@@ -16,6 +22,15 @@
                 <h1>Samuel Wagner Photography</h1>
             </div>
         </header>
+
+        <div id="menu_modal" class="modal">
+            <span class="close" onclick="closePopup()">&times;</span>
+            <a href="index.html">Home</a>
+            <a class="on_page" href="oregon.html">Oregon</a>
+            <a href="washington.html">Washington</a>
+            <a href="california.html">California</a>
+        </div>
+
         <div class="page_content">
             <div class="sidebar_section">
                 <div class="sidebar">
@@ -24,8 +39,12 @@
                     <a href="washington.html">Washington</a>
                     <a href="california.html">California</a>
                 </div>
+                <div class="menu_sidebar">
+                    <img src="Icons/Menu.png" onclick="showPopup()">
+                </div>
             </div>
             <div class="photo_grid_collection">
+                <h2>Oregon</h2>
                 <h2>Cascades</h2>
                 <div class="picture_grid" id="grid_content1"></div>
                 <h2>Wallowa</h2>
