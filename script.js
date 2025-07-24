@@ -48,19 +48,19 @@ function showPhotos(state, target_id) {
     });
 }
 
-/*
-function showFullImage(photo) {
-    const content = document.getElementById('main_content');
-    content.innerHTML = `
-        <div class="full_image">
-            <img src="${photo.src}" alt="${photo.caption}">
-        </div>
-    `;
-
-    const gallery = document.getElementById('grid_content');
-    gallery.innerHTML = '';
+function showPopup() {
+    const modal = document.getElementById("menu_modal");
+    if (modal) {
+        modal.style.display = "flex";
+    }
 }
-*/
+
+function closePopup() {
+    const modal = document.getElementById("menu_modal");
+    if (modal) {
+        modal.style.display = "none";
+    }
+}
 
 window.onload = () => {
     fetch('pictures.json')
