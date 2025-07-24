@@ -46,3 +46,17 @@ function showPhotos(state, target_id) {
         gallery.appendChild(container);
     });
 }
+
+function showPopup() {
+    const modal = document.getElementById("menu_modal");
+    if (modal) {
+        modal.style.display = "flex";
+    }
+}
+
+function closePopup() {
+    const modal = document.getElementById("menu_modal");
+    if (modal) {
+        modal.style.display = "none";
+    }
+}
