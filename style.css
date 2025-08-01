@@ -323,8 +323,10 @@ header {
     .picture_container_horizontal {width: 100%; height: auto;}
     .picture_container_vertical {width: 67.5%; height: auto;}
     .text_section {font-size: 85%;}
-    .image_content {font-size: 62.5%;}
+    .image_content {font-size: 75%;}
     .copyright {display: none;}
 }
 
-
+@media only screen and (max-width: 400px) {
+    .image_content {font-size: 62.5%;}
+}
