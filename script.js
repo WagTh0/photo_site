@@ -1,21 +1,4 @@
 let photos = {};
-/*
-const photos = {
-    oregon: [
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: 'Blue', caption: 'Nature 1' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: 'Blue', caption: 'Nature 2' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: 'Green', caption: 'Nature 2' }
-    ],
-    washington: [
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: '1' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: '2' }
-    ],
-    california: [
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: 'City 1' },
-        { src: 'Pictures/Oregon/Blue_Mountains/anthony_lakes_snowshoeing.jpeg', group: '', caption: 'City 2' }
-    ]
-};
-*/
 
 function showPhotos(state, target_id) {
     currentState = state;
@@ -33,18 +16,25 @@ function showPhotos(state, target_id) {
         img.alt = photo.caption;
         img.style.cursor = 'pointer';
 
-        img.onclick = () => {
-            window.location.href =
-            `picture_page.html?photo=${encodeURIComponent(photo.src)}&caption=${encodeURIComponent(photo.caption)}&description=${encodeURIComponent(photo.description)}`;
-        };
-        
-        const caption = document.createElement('h5');
-        caption.textContent = photo.caption;
-        
-        container.appendChild(img);
-        container.appendChild(caption);
+        img.onload = () => {
+            const isHorizontal = img.naturalWidth >= img.naturalHeight;
 
-        gallery.appendChild(container);
+            const container = document.createElement('div');
+            container.className = isHorizontal ? 'picture_container_horizontal' : 'picture_container_vertical';
+
+            img.onclick = () => {
+                window.location.href =
+                    `picture_page.html?photo=${encodeURIComponent(photo.src)}&caption=${encodeURIComponent(photo.caption)}&description=${encodeURIComponent(photo.description)}`;
+            };
+
+            const caption = document.createElement('h5');
+            caption.textContent = photo.caption;
+
+            container.appendChild(img);
+            container.appendChild(caption);
+
+            gallery.appendChild(container);
+        };
     });
 }
 
