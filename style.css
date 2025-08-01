@@ -323,7 +323,8 @@ header {
     .picture_container_horizontal {width: 100%; height: auto;}
     .picture_container_vertical {width: 67.5%; height: auto;}
     .text_section {font-size: 85%;}
-    .image_content {font-size: 75%;}
+    .image_content {font-size: 62.5%;}
     .copyright {display: none;}
 }
+
 
