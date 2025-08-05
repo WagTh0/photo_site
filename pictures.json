@@ -80,12 +80,12 @@
         {
             "src": "Pictures/California/mesquite_flat_sand_dunes_ripples.JPG",
             "description": "",
-            "caption": "Mesquite Flat"
+            "caption": "Mesquite Flat Sand Dunes"
         },
         {
             "src": "Pictures/California/sunset_overlooking_potato_harbor.jpg",
             "description": "",
-            "caption": "Potato Harbor"
+            "caption": "Sunset overlooking Potato Harbor"
         },
         {
             "src": "Pictures/California/muir_grove_giant_sequoia_boles.jpg",
@@ -99,6 +99,7 @@
         }
     ]
 }
+
 
 
 
