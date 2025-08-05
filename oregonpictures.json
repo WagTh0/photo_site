@@ -166,11 +166,22 @@
             "caption": "Zumwalt Prairie"
         },
         {
-            "src": "Pictures/Oregon/Wallowa/bonneville_balsamroot.jpg",
+            "src": "Pictures/Oregon/Wallowa/bonneville_balsamroot.JPG",
             "description": 
             "The east moraine of Wallowa Lake is covered in blooming balsamroot every May. At the head of the lake is Bonneville Mountain, which forms a classic sharp peak. What others may not notice are the seemingly small mountains to the left and right of Bonneville. There is Dollar Ridge on the left, which makes the headwall of the East Fork Wallowa River drainage, and Cusick Peak, which makes up part of the headwall for the West Fork Wallowa River drainage.",
-            "caption": "Zumwalt Prairie"
+            "caption": "Bonneville Balsamroot"
         },
+        {
+            "src": "Pictures/Oregon/Wallowa/aneroid_lake_fire_in_the_sky.JPG",
+            "description": 
+            "An afternoon thunderstorm came through and produced thunder which echoed through the canyons of the Wallowas like a heartbeat. It cleared by evening, but left a few clouds which lit up a vibrant pink as the sun set. July, 2025.",
+            "caption": "Aneroid Lake Fire in the Sky"
+        },
+        {
+            "src": "Pictures/Oregon/Wallowa/dollar_lake_pink_heather.JPG",
+            "description": "",
+            "caption": "Dollar Lake Pink Heather"
+        }
     ],
     "blue_mountains": [
         {
@@ -226,5 +237,6 @@
         }
     ]
 }
+
 
 
