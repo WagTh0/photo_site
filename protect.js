@@ -1,5 +1,5 @@
 (function () {
-  const correctPassword = "letmein"; // Change this to your actual password
+  const correctPassword = "imagesofthepnw2025"; // Change this to your actual password
   const storageKey = "siteAccessGranted";
 
   // Check if password was already entered
@@ -11,4 +11,5 @@
       alert("Access denied.");
     }
   }
+
 })();
