@@ -1,15 +1,13 @@
 (function () {
-  const correctPassword = "imagesofthepnw2025"; // Change this to your actual password
+  const correctPassword = "imagesofthepnw2025";
   const storageKey = "siteAccessGranted";
 
-  // Check if password was already entered
   if (!localStorage.getItem(storageKey)) {
-    const userInput = prompt("Enter the password to access this site:");
-    if (userInput === correctPassword) {
-      localStorage.setItem(storageKey, "true");
-    } else {
-      alert("Access denied.");
+    let userInput = prompt("Enter the password to access this site:");
+    while (userInput !== correctPassword) {
+      userInput = prompt("Incorrect password. Enter the password to access this site:");
     }
+    localStorage.setItem(storageKey, "true");
   }
-
 })();
+
