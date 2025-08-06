@@ -64,7 +64,13 @@
                     image.src = decodeURIComponent(photoSrc);
 
                     const titleEl = document.querySelector('.image_content h2');
-                    if (photoTitle) titleEl.textContent = decodeURIComponent(photoTitle);
+                    if (photoTitle) {
+                        const decodedCaption = decodeURIComponent(photoTitle);
+                        titleEl.textContent = decodedCaption;
+
+                        // Update the <title> tag dynamically
+                        document.title = decodedCaption;
+                    }
 
                     const desEl = document.querySelector('.image_content p');
                     if (photoDes) desEl.textContent = decodeURIComponent(photoDes);
@@ -76,3 +82,4 @@
     </body>
     <p class="copyright">&copy; 2025 Samuel Wagner</p>
 </html>
+
