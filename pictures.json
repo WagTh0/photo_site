@@ -9,7 +9,7 @@
         {
             "src": "Pictures/Washington/cape_horn_overlook.JPG",
             "description": 
-            "This view is a captivating first look at the Columbia River Gorge if you are driving east on the Lewis and Clark Highway. The green and gentle pasture provides a nice foreground and juxtaposes with the rugged and formidable cliffs further down river. One can also see Beacon Rock off in the distance, named by William Clark in 1805. However, he spelled it 'Beaton' Rock.",
+            "This view is a captivating first look at the Columbia River Gorge if you are driving east on the Lewis and Clark Highway. The green and gentle pasture provides a nice foreground and juxtaposes with the rugged and formidable cliffs further up river. One can also see Beacon Rock off in the distance, which was named by Lewis and Clark in 1805.",
             "caption": "Cape Horn"
         },
         {
@@ -99,6 +99,7 @@
         }
     ]
 }
+
 
 
 
