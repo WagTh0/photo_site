@@ -12,19 +12,14 @@
             "caption": "Mazama Caldera"
         },
         {
-            "src": "Pictures/Oregon/Cascades/clear_lake_oregon.JPG",
-            "description": "",
-            "caption": "Clear Lake"
-        },
-        {
             "src": "Pictures/Oregon/Cascades/crown_point_sunset.JPG",
             "description": "",
             "caption": "Crown Point"
         },
         {
-            "src": "Pictures/Oregon/Cascades/lost_lake_sunset.JPG",
-            "description": "",
-            "caption": "Lost Lake"
+            "src": "Pictures/Oregon/Cascades/crater_lake_rim_sunrise.JPG",
+            "description": "Even in mid-July, the rim of Crater Lake is quite chilly at sunrise.",
+            "caption": "Crater Lake Rim Sunrise"
         },
         {
             "src": "Pictures/Oregon/Cascades/metolius_river_winter.jpg",
@@ -51,11 +46,6 @@
             "src": "Pictures/Oregon/Cascades/salt_creek_falls.jpg",
             "description": "",
             "caption": "Salt Creek Falls"
-        },
-        {
-            "src": "Pictures/Oregon/Cascades/crater_lake_rim_sunrise.JPG",
-            "description": "Even in mid-July, the rim of Crater Lake is quite chilly at sunrise.",
-            "caption": "Crater Lake Rim Sunrise"
         },
         {
             "src": "Pictures/Oregon/Cascades/shale_lake_sunrise.JPG",
@@ -105,6 +95,16 @@
             "src": "Pictures/Oregon/Cascades/zigzag_beargrass_meadow.JPG",
             "description": "",
             "caption": "Zigzag Beargrass Meadow"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/clear_lake_oregon.JPG",
+            "description": "",
+            "caption": "Clear Lake"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/lost_lake_sunset.JPG",
+            "description": "",
+            "caption": "Lost Lake"
         }
     ],
     "wallowa": [
@@ -247,4 +247,5 @@
         }
     ]
 }
+
 
