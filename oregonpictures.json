@@ -88,13 +88,23 @@
         },
         {
             "src": "Pictures/Oregon/Cascades/wizard_island_last_light.JPG",
-            "description": "",
+            "description": "Wizard Island was formed within a few hundred years of the cataclysmic eruption that formed the caldera. Lava flows from volcanic vents built up a platform for the current Wizard Island cone to form on top of. The last volcanic activity in the lake happened around 2800 BC, when a small lava dome formed east of the island.",
             "caption": "Wizard Island"
         },
         {
             "src": "Pictures/Oregon/Cascades/zigzag_beargrass_meadow.JPG",
             "description": "",
             "caption": "Zigzag Beargrass Meadow"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/mazama_caldera.JPG",
+            "description": "The formation of Crater Lake happened very recently in geological terms, only about 7700 years ago. In fact, the ancient Klamath Indians witnessed it and passed the story down of the violent eruption for millennia. The caldera-forming eruption was so big that it emptied out the magma chamber of the ancestral mountain (Mt. Mazama) and caused it to collapse in on itself. Essentially, it turned a 12,000 ft-tall peak into a 6-mile wide hole. One can appreciate the scale of this massive event by climbing Mt. Scott and looking down on the deep blue lake within the rimmed caldera.",
+            "caption": "Mazama Caldera"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/crater_lake_rim_sunrise.JPG",
+            "description": "Even in mid-July, the rim of Crater Lake is quite chilly at sunrise.",
+            "caption": "Crater Lake Rim Sunrise"
         }
     ],
     "wallowa": [
@@ -237,10 +247,3 @@
         }
     ]
 }
-
-
-
-
-
-
-
