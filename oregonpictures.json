@@ -7,6 +7,11 @@
             "caption": "Benson Lake"
         },
         {
+            "src": "Pictures/Oregon/Cascades/mazama_caldera.JPG",
+            "description": "The formation of Crater Lake happened very recently in geological terms, only about 7700 years ago. In fact, the ancient Klamath Indians witnessed it and passed down the story of the violent eruption for millennia. The caldera-forming eruption was so big that it emptied out the magma chamber of the ancestral mountain (Mt. Mazama) and caused it to collapse in on itself. Essentially, it turned a 12,000 ft-tall peak into a 6-mile wide hole. One can appreciate the scale of this massive event by climbing Mt. Scott and looking down on the deep blue lake within the rimmed caldera.",
+            "caption": "Mazama Caldera"
+        },
+        {
             "src": "Pictures/Oregon/Cascades/clear_lake_oregon.JPG",
             "description": "",
             "caption": "Clear Lake"
@@ -46,6 +51,11 @@
             "src": "Pictures/Oregon/Cascades/salt_creek_falls.jpg",
             "description": "",
             "caption": "Salt Creek Falls"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/crater_lake_rim_sunrise.JPG",
+            "description": "Even in mid-July, the rim of Crater Lake is quite chilly at sunrise.",
+            "caption": "Crater Lake Rim Sunrise"
         },
         {
             "src": "Pictures/Oregon/Cascades/shale_lake_sunrise.JPG",
@@ -95,16 +105,6 @@
             "src": "Pictures/Oregon/Cascades/zigzag_beargrass_meadow.JPG",
             "description": "",
             "caption": "Zigzag Beargrass Meadow"
-        },
-        {
-            "src": "Pictures/Oregon/Cascades/mazama_caldera.JPG",
-            "description": "The formation of Crater Lake happened very recently in geological terms, only about 7700 years ago. In fact, the ancient Klamath Indians witnessed it and passed the story down of the violent eruption for millennia. The caldera-forming eruption was so big that it emptied out the magma chamber of the ancestral mountain (Mt. Mazama) and caused it to collapse in on itself. Essentially, it turned a 12,000 ft-tall peak into a 6-mile wide hole. One can appreciate the scale of this massive event by climbing Mt. Scott and looking down on the deep blue lake within the rimmed caldera.",
-            "caption": "Mazama Caldera"
-        },
-        {
-            "src": "Pictures/Oregon/Cascades/crater_lake_rim_sunrise.JPG",
-            "description": "Even in mid-July, the rim of Crater Lake is quite chilly at sunrise.",
-            "caption": "Crater Lake Rim Sunrise"
         }
     ],
     "wallowa": [
@@ -247,3 +247,4 @@
         }
     ]
 }
+
