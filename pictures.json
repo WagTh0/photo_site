@@ -49,6 +49,23 @@
             "description": 
             "Smoke blew in from the nearby Schneider Springs Fire creating a hazy pink glow on Mt. Rainier. This photograph was taken atop Shriner Peak after a night of stargazing and looking for Perseid meteors.",
             "caption": "Sunrise from Shriner Peak"
+        },
+        {
+            "src": "Pictures/Washington/crooked_creek_falls.JPG",
+            "description": "",
+            "caption": "Crooked Creek Falls"
+        },
+        {
+            "src": "Pictures/Washington/divide_camp_meadow.JPG",
+            "description": 
+            "One can see Adams' largest glacier (Adams Glacier) plus lots of magenta paintbrush and lupine from this spot on the northwest side of the mountain.",
+            "caption": "Divide Camp Meadow"
+        },
+        {
+            "src": "Pictures/Washington/bird_creek_meadows.JPG",
+            "description": 
+            "The Yakama Nation side of Mt. Adams contains Bird Creek Meadows. You can see Klickitat and Mazama Glaciers high on the mountain from these meadows as well as a large assortment of wildflowers at your feet.",
+            "caption": "Bird Creek Meadows"
         }
     ],
     "california": [
@@ -99,9 +116,3 @@
         }
     ]
 }
-
-
-
-
-
-
