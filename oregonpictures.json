@@ -102,6 +102,11 @@
             "caption": "Clear Lake"
         },
         {
+            "src": "Pictures/Oregon/Cascades/turkey_monster.JPG",
+            "description": "This 350-foot silicic volcanic plug is located in the Menagerie Wilderness of the Central Cascades foothills. It used to be part of an ancient volcano millions of years ago. Given the high silica content of the rock, it is very erosion resistant, so while the rest of the volcano eroded, this plug remained. There are many other giant pillars in the wilderness, such as Rabbit Ears (the twin pillars in the background), making it a climber's paradise.",
+            "caption": "Turkey Monster"
+        },
+        {
             "src": "Pictures/Oregon/Cascades/lost_lake_sunset.JPG",
             "description": "",
             "caption": "Lost Lake"
@@ -247,5 +252,6 @@
         }
     ]
 }
+
 
 
