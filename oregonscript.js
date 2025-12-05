@@ -30,8 +30,7 @@ function showPhotos(state, target_id) {
         img.style.cursor = 'pointer';
 
         img.onclick = () => {
-            window.location.href =
-                `picture_page.html?photo=${encodeURIComponent(photo.src)}&caption=${encodeURIComponent(photo.caption)}&description=${encodeURIComponent(photo.description)}`;
+            window.location.href = `picture_page.html?id=${photo.id}`;
         };
 
         const caption = document.createElement('h5');
@@ -66,4 +65,3 @@ function closePopup() {
         modal.style.display = "none";
     }
 }
-
