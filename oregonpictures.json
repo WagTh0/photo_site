@@ -110,6 +110,36 @@
             "src": "Pictures/Oregon/Cascades/lost_lake_sunset.JPG",
             "description": "",
             "caption": "Lost Lake"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/todd_lake_snow.JPG",
+            "description": "",
+            "caption": "Todd Lake"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/mt_bachelor_meadow.JPG",
+            "description": "",
+            "caption": "Mt. Bachelor Meadow"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/marion_lake_maple.JPG",
+            "description": "",
+            "caption": "Marion Lake"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/big_lake_autumn.JPG",
+            "description": "",
+            "caption": "Big Lake Autumn"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/sparks_lake_south_sister.JPG",
+            "description": "",
+            "caption": "Sparks Lake South Sister"
+        },
+        {
+            "src": "Pictures/Oregon/Cascades/vista_ridge_fiery_maple.JPG",
+            "description": "",
+            "caption": "Vista Ridge Fiery Maple"
         }
     ],
     "wallowa": [
@@ -136,10 +166,9 @@
             "caption": "Glacier Lake"
         },
         {
-            "src": "Pictures/Oregon/Wallowa/road_to_the_wallowas.JPG",
-            "description": 
-            "The Wallowa Valley is Oregon's version of Jackson Hole, with tall snow-capped peaks rising straight out of the ground - no foothills in between. Here is a common scene in this land: a dirt road leading across the rangeland, toward the mountains.",
-            "caption": "Road to the Wallowas"
+            "src": "Pictures/Oregon/Wallowa/ice_lake_wallowas.JPG",
+            "description": "",
+            "caption": "Ice Lake Wallowas"
         },
         {
             "src": "Pictures/Oregon/Wallowa/ruby_rainbow.JPG",
@@ -252,6 +281,3 @@
         }
     ]
 }
-
-
-
