@@ -19,8 +19,7 @@ function showPhotos(state, target_id) {
         const container = document.createElement('div');
 
         img.onclick = () => {
-            window.location.href =
-                `picture_page.html?photo=${encodeURIComponent(photo.src)}&caption=${encodeURIComponent(photo.caption)}&description=${encodeURIComponent(photo.description)}`;
+            window.location.href = `picture_page.html?id=${photo.id}`;
         };
 
         img.onload = () => {
@@ -63,4 +62,3 @@ window.onload = () => {
             showPhotos(currentState, currentId);
         })
 };
-
