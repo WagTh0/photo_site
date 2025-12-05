@@ -50,36 +50,47 @@
                 <p></p>
             </div>
             <script>
-                function getQueryParam(param) {
-                    const urlParams = new URLSearchParams(window.location.search);
-                    return urlParams.get(param);
-                }
+                const params = new URLSearchParams(window.location.search);
+                const id = params.get("id");
 
-                const photoSrc = getQueryParam('photo');
-                const photoTitle = getQueryParam('caption');
-                const photoDes = getQueryParam('description');
-
-                if (photoSrc) {
-                    const image = document.getElementById('fullImage');
-                    image.src = decodeURIComponent(photoSrc);
-
-                    const titleEl = document.querySelector('.image_content h2');
-                    if (photoTitle) {
-                        const decodedCaption = decodeURIComponent(photoTitle);
-                        titleEl.textContent = decodedCaption;
-
-                        // Update the <title> tag dynamically
-                        document.title = decodedCaption;
-                    }
-
-                    const desEl = document.querySelector('.image_content p');
-                    if (photoDes) desEl.textContent = decodeURIComponent(photoDes);
+                if (!id) {
+                    document.body.innerHTML = "<p>No photo selected.</p>";
                 } else {
-                    document.body.innerHTML = '<p>No photo selected.</p>';
+                    fetch('oregonpictures.json')
+                        .then(res => res.json())
+                        .then(data => {
+                            let foundPhoto = null;
+
+                            for (const groupName in data) {
+                                const match = data[groupName].find(photo => photo.id === id);
+                                if (match) {
+                                    foundPhoto = match;
+                                    break;
+                                }
+                            }
+
+                            if (!foundPhoto) {
+                                document.body.innerHTML = "<p>Photo not found.</p>";
+                                return;
+                            }
+
+                            const image = document.getElementById("fullImage");
+                            const titleEl = document.querySelector(".image_content h2");
+                            const desEl = document.querySelector(".image_content p");
+
+                            image.src = foundPhoto.src;
+                            titleEl.textContent = foundPhoto.caption;
+                            desEl.textContent = foundPhoto.description;
+
+                            document.title = foundPhoto.caption;
+                        })
+                        .catch(error => {
+                            console.error("Error loading photo:", error);
+                            document.body.innerHTML = "<p>Error loading photo data.</p>";
+                        });
                 }
             </script>
         </div>
     </body>
     <p class="copyright">&copy; 2025 Samuel Wagner</p>
 </html>
-
