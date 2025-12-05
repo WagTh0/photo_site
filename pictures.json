@@ -23,11 +23,6 @@
             "caption": "Moraine Park Tarn"
         },
         {
-            "src": "Pictures/Washington/mt_adams_looming_over_the_klickitat_valley.JPG",
-            "description": "",
-            "caption": "Klickitat Valley and Mt. Adams"
-        },
-        {
             "src": "Pictures/Washington/packwood_lake_and_rainier.JPG",
             "description": 
             "This vantage point in the Goat Rocks Wilderness perfectly lines up Mt. Rainier and Packwood Lake. The lake lies at the end of a glacial valley and it is reasonable to assume that it was formed along with the valley. However, the lake was not formed until much later, around 800 A.D., when a landslide dammed up the creek flowing through the valley. August, 2023",
@@ -66,6 +61,17 @@
             "description": 
             "The Yakama Nation side of Mt. Adams contains Bird Creek Meadows. You can see Klickitat and Mazama Glaciers high on the mountain from these meadows as well as a large assortment of wildflowers at your feet.",
             "caption": "Bird Creek Meadows"
+        },
+        {
+            "src": "Pictures/Washington/bird_meadow.JPG",
+            "description": 
+            "One can see Adams' largest glacier (Adams Glacier) plus lots of magenta paintbrush and lupine from this spot on the northwest side of the mountain.",
+            "caption": "Divide Camp Meadow"
+        },
+        {
+            "src": "Pictures/Washington/conboy_lake_aspen.JPG",
+            "description": "",
+            "caption": "Conboy Lake Aspen"
         }
     ],
     "california": [
