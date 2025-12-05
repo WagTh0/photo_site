@@ -1,68 +1,87 @@
 {
     "washington": [
         {
+            "id": "autumn_colors_on_dewey_lakes_trail",
             "src": "Pictures/Washington/autumn_colors_on_dewey_lakes_trail.JPG",
             "description": 
             "This palette of early autumn colors was captured near the border of Mt. Rainier National Park (Pierce County) and the William O. Douglas Wilderness (Yakima County). The craggy peaks in the background are part of the Tatoosh Range. October, 2022",
             "caption": "Dewey Lakes Trail"
         },
         {
+            "id": "cape_horn_overlook",
             "src": "Pictures/Washington/cape_horn_overlook.JPG",
             "description": 
             "This view is a captivating first look at the Columbia River Gorge if you are driving east on the Lewis and Clark Highway. The green and gentle pasture provides a nice foreground and juxtaposes with the rugged and formidable cliffs further up river. One can also see Beacon Rock off in the distance, which was named by Lewis and Clark in 1805.",
             "caption": "Cape Horn"
         },
         {
+            "id": "indian_henry's_hunting_ground",
             "src": "Pictures/Washington/indian_henry's_hunting_ground.JPG",
             "description": "",
             "caption": "Indian Henry's Hunting Ground"
         },
         {
+            "id": "moraine_park_tarn",
             "src": "Pictures/Washington/moraine_park_tarn.JPG",
             "description": "",
             "caption": "Moraine Park Tarn"
         },
         {
+            "id": "packwood_lake_and_rainier",
             "src": "Pictures/Washington/packwood_lake_and_rainier.JPG",
             "description": 
             "This vantage point in the Goat Rocks Wilderness perfectly lines up Mt. Rainier and Packwood Lake. The lake lies at the end of a glacial valley and it is reasonable to assume that it was formed along with the valley. However, the lake was not formed until much later, around 800 A.D., when a landslide dammed up the creek flowing through the valley. August, 2023",
             "caption": "Packwood Lake and Mt. Rainier"
         },
         {
+            "id": "red_huckleberries_at_indian_heaven",
             "src": "Pictures/Washington/red_huckleberries_at_indian_heaven.JPG",
             "description": "",
             "caption": "Indian Heaven"
         },
         {
+            "id": "shoe_lake",
             "src": "Pictures/Washington/shoe_lake.JPG",
             "description": 
             "Hidden in a little basin on the south side of Hogsback Mountain near White Pass is a little turquoise lake called Shoe Lake. It affords a sweeping view of the main spine of the Goat Rocks (as long as you can handle climbing up an unstable rock slide.) August, 2022",
             "caption": "Shoe Lake"
         },
         {
+            "id": "shriner_peak_sunrise",
             "src": "Pictures/Washington/shriner_peak_sunrise.JPG",
             "description": 
             "Smoke blew in from the nearby Schneider Springs Fire creating a hazy pink glow on Mt. Rainier. This photograph was taken atop Shriner Peak after a night of stargazing and looking for Perseid meteors.",
             "caption": "Sunrise from Shriner Peak"
         },
         {
+            "id": "crooked_creek_falls",
             "src": "Pictures/Washington/crooked_creek_falls.JPG",
             "description": "",
             "caption": "Crooked Creek Falls"
         },
         {
+            "id": "divide_camp_meadow",
             "src": "Pictures/Washington/divide_camp_meadow.JPG",
             "description": 
             "One can see Adams' largest glacier (Adams Glacier) plus lots of magenta paintbrush and lupine from this spot on the northwest side of the mountain.",
             "caption": "Divide Camp Meadow"
         },
         {
+            "id": "bird_creek_meadows",
             "src": "Pictures/Washington/bird_creek_meadows.JPG",
             "description": 
             "The Yakama Nation side of Mt. Adams contains Bird Creek Meadows. You can see Klickitat and Mazama Glaciers high on the mountain from these meadows as well as a large assortment of wildflowers at your feet.",
             "caption": "Bird Creek Meadows"
         },
         {
+            "id": "bird_meadow",
+            "src": "Pictures/Washington/bird_meadow.JPG",
+            "description": 
+            "One can see Adams' largest glacier (Adams Glacier) plus lots of magenta paintbrush and lupine from this spot on the northwest side of the mountain.",
+            "caption": "Divide Camp Meadow"
+        },
+        {
+            "id": "conboy_lake_aspen",
             "src": "Pictures/Washington/conboy_lake_aspen.JPG",
             "description": "",
             "caption": "Conboy Lake Aspen"
@@ -70,50 +89,58 @@
     ],
     "california": [
         {
+            "id": "the_senate_sequoia",
             "src": "Pictures/California/the_senate_sequoia.JPG",
             "description": "",
             "caption": "The Senate Sequoia"
         },
         {
+            "id": "grand_sentinel_kings_canyon",
             "src": "Pictures/California/grand_sentinel_kings_canyon.JPG",
             "description": "",
             "caption": "Grand Sentinel Kings Canyon"
         },
         {
+            "id": "burney_falls_and_douglas_fir",
             "src": "Pictures/California/burney_falls_and_douglas_fir.JPG",
             "description": "",
             "caption": "Burney Falls"
         },
         {
+            "id": "joshua_tree_sunstar",
             "src": "Pictures/California/joshua_tree_sunstar.JPG",
             "description": "",
             "caption": "Joshua Tree Sunstar"
         },
         {
+            "id": "lone_pine_peak_sunrise",
             "src": "Pictures/California/lone_pine_peak_sunrise.JPG",
             "description": "",
             "caption": "Lone Pine Peak"
         },
         {
+            "id": "mesquite_flat_sand_dunes_ripples",
             "src": "Pictures/California/mesquite_flat_sand_dunes_ripples.JPG",
             "description": "",
             "caption": "Mesquite Flat Sand Dunes"
         },
         {
+            "id": "sunset_overlooking_potato_harbor",
             "src": "Pictures/California/sunset_overlooking_potato_harbor.jpg",
             "description": "",
             "caption": "Sunset overlooking Potato Harbor"
         },
         {
+            "id": "muir_grove_giant_sequoia_boles",
             "src": "Pictures/California/muir_grove_giant_sequoia_boles.jpg",
             "description": "",
             "caption": "Muir Grove Giant Sequoia Boles"
         },
         {
+            "id": "zabriskie_point_first_light",
             "src": "Pictures/California/zabriskie_point_first_light.JPG",
             "description": "",
             "caption": "Zabriskie Point"
         }
     ]
 }
-
