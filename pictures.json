@@ -63,12 +63,6 @@
             "caption": "Bird Creek Meadows"
         },
         {
-            "src": "Pictures/Washington/bird_meadow.JPG",
-            "description": 
-            "One can see Adams' largest glacier (Adams Glacier) plus lots of magenta paintbrush and lupine from this spot on the northwest side of the mountain.",
-            "caption": "Divide Camp Meadow"
-        },
-        {
             "src": "Pictures/Washington/conboy_lake_aspen.JPG",
             "description": "",
             "caption": "Conboy Lake Aspen"
@@ -122,3 +116,4 @@
         }
     ]
 }
+
