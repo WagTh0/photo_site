@@ -56,22 +56,31 @@
                 if (!id) {
                     document.body.innerHTML = "<p>No photo selected.</p>";
                 } else {
-                    fetch('oregonpictures.json')
-                        .then(res => res.json())
-                        .then(data => {
+                    const jsonFiles = [
+                        "oregonpictures.json",
+                        "pictures.json"
+                    ];
+
+                    Promise.all(jsonFiles.map(file => fetch(file).then(r => r.json())))
+                        .then(jsonDataArray => {
                             let foundPhoto = null;
 
-                            for (const groupName in data) {
-                                const match = data[groupName].find(photo => photo.id === id);
-                                if (match) {
-                                    foundPhoto = match;
-                                    break;
-                                }
-                            }
+                            jsonDataArray.forEach(data => {
+                                if (foundPhoto) return;
 
-                            if (!foundPhoto) {
-                                document.body.innerHTML = "<p>Photo not found.</p>";
-                                return;
+                                for (const groupName in data) {
+                                    const match = data[groupName].find(photo => photo.id === id);
+                                    if (match) {
+                                        foundPhoto = match;
+                                        break;
+                                    }
+                                }
+                            });
+
+                           
+                            if (!foundPhoto) {      
+                                document.body.innerHTML = "<p>Photo not found.</p>";    
+                                return;   
                             }
 
                             const image = document.getElementById("fullImage");
