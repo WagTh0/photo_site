@@ -76,7 +76,8 @@
         {
             "id": "conboy_lake_aspen",
             "src": "Pictures/Washington/conboy_lake_aspen.JPG",
-            "description": "",
+            "description": 
+            "Mt. Adams is the giant snowy dome that rises above the Camas Prairie. Stands of aspen trees add splashes of autumn color to the landscape in late October. ",
             "caption": "Conboy Lake Aspen"
         }
     ],
@@ -137,4 +138,3 @@
         }
     ]
 }
-
