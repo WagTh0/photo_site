@@ -10,7 +10,8 @@
         {
             "id": "mazama_caldera",
             "src": "Pictures/Oregon/Cascades/mazama_caldera.JPG",
-            "description": "The formation of Crater Lake happened very recently in geological terms, only about 7700 years ago. In fact, the ancient Klamath Indians witnessed it and passed down the story of the violent eruption for millennia. The caldera-forming eruption was so big that it emptied out the magma chamber of the ancestral mountain (Mt. Mazama) and caused it to collapse in on itself. Essentially, it turned a 12,000 ft-tall peak into a 6-mile wide hole. One can appreciate the scale of this massive event by climbing Mt. Scott and looking down on the deep blue lake within the rimmed caldera.",
+            "description": 
+            "The formation of Crater Lake happened very recently in geological terms, only about 7700 years ago. In fact, the ancient Klamath Indians witnessed it and passed down the story of the violent eruption for millennia. The caldera-forming eruption was so big that it emptied out the magma chamber of the ancestral mountain (Mt. Mazama) and caused it to collapse in on itself. Essentially, it turned a 12,000 ft-tall peak into a 6-mile wide hole. One can appreciate the scale of this massive event by climbing Mt. Scott and looking down on the deep blue lake within the rimmed caldera.",
             "caption": "Mazama Caldera"
         },
         {
@@ -22,7 +23,8 @@
         {
             "id": "crater_lake_rim_sunrise",
             "src": "Pictures/Oregon/Cascades/crater_lake_rim_sunrise.JPG",
-            "description": "Even in mid-July, the rim of Crater Lake is quite chilly at sunrise.",
+            "description": 
+            "Even in mid-July, the rim of Crater Lake is quite chilly at sunrise.",
             "caption": "Crater Lake Rim Sunrise"
         },
         {
@@ -105,7 +107,8 @@
         {
             "id": "wizard_island",
             "src": "Pictures/Oregon/Cascades/wizard_island_last_light.JPG",
-            "description": "Wizard Island was formed within a few hundred years of the cataclysmic eruption that formed the caldera. Lava flows from volcanic vents built up a platform for the current Wizard Island cone to form on top of. The last volcanic activity in the lake happened around 2800 BC, when a small lava dome formed east of the island.",
+            "description": 
+            "Wizard Island was formed within a few hundred years of the cataclysmic eruption that formed the caldera. Lava flows from volcanic vents built up a platform for the current Wizard Island cone to form on top of. The last volcanic activity in the lake happened around 2800 BC, when a small lava dome formed east of the island.",
             "caption": "Wizard Island"
         },
         {
@@ -123,7 +126,8 @@
         {
             "id": "turkey_monster",
             "src": "Pictures/Oregon/Cascades/turkey_monster.JPG",
-            "description": "This 350-foot silicic volcanic plug is located in the Menagerie Wilderness of the Central Cascades foothills. It used to be part of an ancient volcano millions of years ago. Given the high silica content of the rock, it is very erosion resistant, so while the rest of the volcano eroded, this plug remained. There are many other giant pillars in the wilderness, such as Rabbit Ears (the twin pillars in the background), making it a climber's paradise.",
+            "description": 
+            "This 350-foot silicic volcanic plug is located in the Menagerie Wilderness of the Central Cascades foothills. It used to be part of an ancient volcano millions of years ago. Given the high silica content of the rock, it is very erosion resistant, so while the rest of the volcano eroded, this plug remained. There are many other giant pillars in the wilderness, such as Rabbit Ears (the twin pillars in the background), making it a climber's paradise.",
             "caption": "Turkey Monster"
         },
         {
@@ -141,13 +145,15 @@
         {
             "id": "mt_bachelor_meadow",
             "src": "Pictures/Oregon/Cascades/mt_bachelor_meadow.JPG",
-            "description": "",
+            "description": 
+            "Set amongst the old growth lodgepole pines, this meadow offers an astounding view of snow-capped Mt. Bachelor and vibrant fall foliage. Photographed October, 2025.",
             "caption": "Mt. Bachelor Meadow"
         },
         {
             "id": "marion_lake",
             "src": "Pictures/Oregon/Cascades/marion_lake_maple.JPG",
-            "description": "",
+            "description": 
+            "Marion Lake is Oregon's largest backcountry lake, though it isn't hard to reach. An easy 2.5 mile hike will you take you there. Three Fingered Jack, an old eroded shield volcano, features prominently from the lake's western shores.",
             "caption": "Marion Lake"
         },
         {
@@ -159,7 +165,8 @@
         {
             "id": "sparks_lake_south_sister",
             "src": "Pictures/Oregon/Cascades/sparks_lake_south_sister.JPG",
-            "description": "",
+            "description": 
+            "Sparks Lake is located in the Three Sisters area, one of the most dense volcanic clusters in the world - with over 450 different volcanic vents that have erupted within the last million years. However, most of these eruptions were from the monogenetic cinder cones - the last of which was about 2000 years ago. The last volcanic activity from the main cone of South Sister was in the Pleistocene.",
             "caption": "Sparks Lake South Sister"
         },
         {
@@ -265,7 +272,8 @@
         {
             "id": "dollar_lake_pink_heather",
             "src": "Pictures/Oregon/Wallowa/dollar_lake_pink_heather.JPG",
-            "description": "",
+            "description": 
+            "Spring always comes late up at 8400 feet. Snow lingers high in the Wallowas through July and well into August.",
             "caption": "Dollar Lake Pink Heather"
         }
     ],
@@ -321,13 +329,15 @@
         {
             "id": "neahkahnie_mountain",
             "src": "Pictures/Oregon/Other/neahkahnie_mountain.JPG",
-            "description": "Back in 1693, a Manila Galleon carrying beeswax and porcelain to Acapulco was blown off course and shipwrecked somewhere in the seas near Neahkahnie Mountain. Allegedly some of the wreck was visible in the 19th century, but the ocean has since swallowed it up and its location has been lost to time. Sonar readings have been done to try to find it, though without luck. It may seem the shipwreck was only a legend. However, chunks of beeswax still wash up around Nehalem Bay and pieces of porcelain are still being discovered in the sea caves at the base of Neahkahnie. The phantom is really out there, slowly giving up its treasures. Photographed August, 2021.",
+            "description": 
+            "Back in 1693, a Manila Galleon carrying beeswax and porcelain to Acapulco was blown off course and shipwrecked somewhere in the seas near Neahkahnie Mountain. Allegedly some of the wreck was visible in the 19th century, but the ocean has since swallowed it up and its location has been lost to time. Sonar readings have been done to try to find it, though without luck. It may seem the shipwreck was only a legend. However, chunks of beeswax still wash up around Nehalem Bay and pieces of porcelain are still being discovered in the sea caves at the base of Neahkahnie. The phantom is really out there, slowly giving up its treasures. Photographed August, 2021.",
             "caption": "Neahkahnie Mountain"
         },
         {
             "id": "summer_lake_winter_rim",
             "src": "Pictures/Oregon/Other/summer_lake_winter_rim.jpg",
-            "description": "Winter Rim is one of many ridges in the Great Basin, formed by horst and graben faulting. Summer Lake is an endorheic lake, meaning there is no way for the water to reach the ocean except through evaporation. This photo was taken on a cold March morning in 2023 when temperatures went down to 18 F. ",
+            "description": 
+            "Winter Rim is one of many ridges in the Great Basin, formed by horst and graben faulting. Summer Lake is an endorheic lake, meaning there is no way for the water to reach the ocean except through evaporation. This photo was taken on a cold March morning in 2023 when temperatures went down to 18 F. ",
             "caption": "Summer Lake Winter Rim"
         }
     ]
