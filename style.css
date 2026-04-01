@@ -319,7 +319,7 @@ header {
     .icon > img {display: none;}
     .w3-content {padding-right: 1%; padding-bottom: 1%; height: 0%;}
     .picture_container_horizontal {width: 100%; height: auto;}
-    .picture_container_vertical {width: 67.5%; height: auto;}
+    .picture_container_vertical {width: 100%; height: auto;}
     .text_section {font-size: 85%;}
     .image_content {font-size: 75%;}
     .copyright {display: none;}
