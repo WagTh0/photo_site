@@ -187,9 +187,8 @@ header {
 .picture_grid > div > p {font-size: 15px;}
 
 .picture_container_horizontal {
-    width: 305px;
-    height: 300px;
-    /*aspect-ratio: 305 / 300;*/
+    width: 100%;
+    aspect-ratio: 355 / 350;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -198,9 +197,8 @@ header {
 }
 
 .picture_container_vertical {
-    width: 305px;
-    height: 300px;
-    /*aspect-ratio: 305 / 300;*/
+    width: 100%;
+    aspect-ratio: 355 / 350;
     display: flex;
     flex-direction: column;
     align-items: center;
