@@ -34,10 +34,11 @@
             "caption": "Metolius River"
         },
         {
-            "id": "mitchell_point",
-            "src": "Pictures/Oregon/Cascades/mitchell_point_sunrise.JPG",
-            "description": "",
-            "caption": "Mitchell Point"
+            "id": "lonely_pine_tree",
+            "src": "Pictures/Oregon/Cascades/lonely_pine_tree.JPG",
+            "description": 
+            "A lonely pine set against the snowy mountains. Photographed near Fort Klamath in December, 2025.",
+            "caption": "Lonely Pine"
         },
         {
             "id": "obsidian_falls",
@@ -118,10 +119,11 @@
             "caption": "Zigzag Beargrass Meadow"
         },
         {
-            "id": "clear_lake",
-            "src": "Pictures/Oregon/Cascades/clear_lake_oregon.JPG",
-            "description": "",
-            "caption": "Clear Lake"
+            "id": "crater_lake_frosty_trees",
+            "src": "Pictures/Oregon/Cascades/crater_lake_frosty_trees.JPG",
+            "description": 
+            "In winter, the Crater Lake Rim becomes a frozen wonderland, which is best enjoyed with a snowshoe hike when the roads are closed. It's hard to imagine such a serene place was formed from such a violent event.",
+            "caption": "Crater Lake Frosty Trees"
         },
         {
             "id": "turkey_monster",
