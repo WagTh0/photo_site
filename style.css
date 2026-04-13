@@ -194,6 +194,7 @@ header {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
+    min-width: 0;
 }
 
 .picture_container_vertical {
@@ -204,22 +205,27 @@ header {
     align-items: center;
     justify-content: center;
     box-sizing: border-box;
+    min-width: 0;
 }
 
 .picture_container_horizontal > img {
+    display: block;
     max-width: 80%;
     max-height: 80%;
     object-fit: contain;
     padding: 15px;
     border: 1px solid black;
+    box-sizing: border-box;
 }
 
 .picture_container_vertical > img {
+    display: block;
     max-width: 80%;
     max-height: 80%;
     object-fit: contain;
     padding: 15px;
     border: 1px solid black;
+    box-sizing: border-box;
 }
 
 .full_image > img {
@@ -328,4 +334,3 @@ header {
 @media only screen and (max-width: 400px) {
     .image_content {font-size: 62.5%;}
 }
-
