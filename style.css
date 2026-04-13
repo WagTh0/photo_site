@@ -210,8 +210,8 @@ header {
 
 .picture_container_horizontal > img {
     display: block;
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 90%;
+    max-height: 90%;
     object-fit: contain;
     padding: 15px;
     border: 1px solid black;
@@ -220,8 +220,8 @@ header {
 
 .picture_container_vertical > img {
     display: block;
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 90%;
+    max-height: 90%;
     object-fit: contain;
     padding: 15px;
     border: 1px solid black;
